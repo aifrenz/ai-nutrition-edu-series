@@ -1,7 +1,7 @@
 # ai-nutrition-edu-series
 
 ## 강의자료
-https://github.com/aifrenz/ai-nutrition-edu-series/blob/main/2025.08.06%20%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%ED%99%98%EA%B2%BD%EB%B3%B4%ED%98%B8%EC%9B%90%20%EA%B0%95%EC%9D%98%20(%ED%95%9C%EA%B5%AD%ED%99%94%ED%95%99%EC%97%B0%EA%B5%AC%EC%9B%90%20%EA%B0%95%EC%98%81%EB%AC%B5)-%EA%B2%8C%EC%8B%9C%EC%9A%A9.pdf
+[강의자료 다운로드](https://github.com/aifrenz/ai-nutrition-edu-series/blob/main/2025.08.06%20%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%ED%99%98%EA%B2%BD%EB%B3%B4%ED%98%B8%EC%9B%90%20%EA%B0%95%EC%9D%98%20(%ED%95%9C%EA%B5%AD%ED%99%94%ED%95%99%EC%97%B0%EA%B5%AC%EC%9B%90%20%EA%B0%95%EC%98%81%EB%AC%B5)-%EA%B2%8C%EC%8B%9C%EC%9A%A9.pdf)
 
 ## Google Workspace Labs
 https://workspace.google.com/labs-sign-up/
